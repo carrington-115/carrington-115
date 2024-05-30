@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**carrington-115/carrington-115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+I am **Fru Mark Carrington Chei**. I have experience in Software development (web (fullstack), mobile), Robotics, Quantum Information, and User Experience design. I am a CS Undergraduate with driven passion to learn, contribute, and innovate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **🔭 I’m currently working on ...** AI, ML, DL, Robotics and Quantum computing projects.
+- 🌱 I’m currently learning: **DevOps, Cybersecurity, Deeplearning, and Entrepreneurial skills**.
+
+### Social Media
+
+You can reach me on,
+_Linkedin_:[Linkedin](https://www.linkedin.com/in/markcarrington-mtc2022/)
+_X_: [X](https://x.com/FruChei)
+
+### Tools I use
+
+1. **Web development**
+   **_Frontend_**
+
+- React, styled components, shadcn, tailwind, materialuI, bootstrap
+
+2. **_Backend_**
+
+- Nodejs, Flask, MongoDB, Express, Shell, Git, Linux, PostgreSQL, Heroku, Firebase and many more
+
+3. **_Quantum Information_**
+
+- Qiskit, Cirq, Braket, Q#
+
+4. **_Languages_**
+
+- C, Javascript, Typescript, Python, Shell
+
+5. **_Microboards_**
+
+- Arduino (IoT-integrated), ESP32
