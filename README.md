@@ -12,7 +12,7 @@ I am **Fru Mark Carrington Chei**. I have experience in Software development (we
 You can reach me on,
 
 <div style="display: flex; gap: 100;">
-<a href="https://www.linkedin.com/in/markcarrington-mtc2022/"><img src="https://github.com/carrington-115/carrington-115/blob/main/images/linkedin.svg.png" width="300" height="auto" /></a> <a href="https://x.com/FruChei"><img src="https://github.com/carrington-115/carrington-115/blob/main/images/x.jpeg" width="150" height="auto" /></a>
+<a href="https://www.linkedin.com/in/markcarrington-mtc2022/"><img src="https://github.com/carrington-115/carrington-115/blob/main/images/linkedin.svg.png" width="300" height="auto" /></a>    <a href="https://x.com/FruChei"><img src="https://github.com/carrington-115/carrington-115/blob/main/images/x.jpeg" width="150" height="auto" /></a>
 </div>
 
 ### Tools I use
@@ -30,6 +30,18 @@ You can reach me on,
 </div>
 
 2. **_Backend_**
+<div style="display: flex; gap: 50px">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/nodejs.png" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/flask.png" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/mongodb.png" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/expressjs.png" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/shell.jpg" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/git.svg" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/linux.jpg" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/postgres.svg" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/heroku.jpg" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/firebase.png" width="100" height="auto">
+</div>
 
 - Nodejs, Flask, MongoDB, Express, Shell, Git, Linux, PostgreSQL, Heroku, Firebase and more
 
