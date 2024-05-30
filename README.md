@@ -54,6 +54,13 @@ You can reach me on,
 
 4. **_Languages_**
 
+<div>
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/c.svg" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/javascript.svg" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/typescript.svg.png" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/python.svg" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/shell.jpg" width="100" height="auto">
+</div>
 - C, Javascript, Typescript, Python, Shell
 
 5. **_Microboards_**
