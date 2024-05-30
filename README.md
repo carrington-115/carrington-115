@@ -11,7 +11,7 @@ I am **Fru Mark Carrington Chei**. I have experience in Software development (we
 
 You can reach me on,
 
-<a href="https://www.linkedin.com/in/markcarrington-mtc2022/"><img src="https://github.com/carrington-115/carrington-115/blob/main/images/linkedin.svg.png" /></a>
+<a href="https://www.linkedin.com/in/markcarrington-mtc2022/"><img src="https://github.com/carrington-115/carrington-115/blob/main/images/linkedin.svg.png" width="100" height="auto" /></a>
 
 - _Linkedin_: [![Linkedin Logo](https://github.com/carrington-115/carrington-115/blob/main/images/linkedin.svg.png)](https://www.linkedin.com/in/markcarrington-mtc2022/)
 - _X_: [![X logo](https://github.com/carrington-115/carrington-115/blob/main/images/x.jpeg)](https://x.com/FruChei)
