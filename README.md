@@ -19,7 +19,7 @@ You can reach me on,
 1. **Web development**
    **_Frontend_**
 
-<div style="display: flex; gap: 20px">
+<div style="display: flex; gap: 50px">
 <img src="https://github.com/carrington-115/carrington-115/blob/main/images/react.jpg" width="100" height="auto">
 <img src="https://github.com/carrington-115/carrington-115/blob/main/images/nextjs.png" width="100" height="auto">
 <img src="https://github.com/carrington-115/carrington-115/blob/main/images/styled-components.png" width="100" height="auto">
