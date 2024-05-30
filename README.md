@@ -44,10 +44,11 @@ You can reach me on,
 </div>
 
 3. **_Quantum Information_**
-
+<div>
 <img src="https://github.com/carrington-115/carrington-115/blob/main/images/qiskit.png" width="100" height="auto">
 <img src="https://github.com/carrington-115/carrington-115/blob/main/images/cirq.png" width="100" height="auto">
-<img src="https://github.com/carrington-115/carrington-115/blob/main/images/pennylane.svg" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/pennylane.svg" width="200" height="auto">
+</div>
 
 - Qiskit, Cirq, pennylane
 
