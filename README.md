@@ -19,7 +19,7 @@ You can reach me on,
 1. **Web development**
    **_Frontend_**
 
-- React, styled components, shadcn, tailwind, materialuI, bootstrap
+- Reactjs, Nextjs, styled components, shadcn, tailwind, bootstrap
 
 2. **_Backend_**
 
