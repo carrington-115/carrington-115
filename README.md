@@ -39,4 +39,4 @@ You can reach me on,
 
 6. Code Testing
 
-- Pytest, Jest, Express, Mocha
+- Pytest, Jest, Cypress, Mocha, Postman
