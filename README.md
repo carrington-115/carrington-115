@@ -10,8 +10,9 @@ I am **Fru Mark Carrington Chei**. I have experience in Software development (we
 ### Social Media
 
 You can reach me on,
-_Linkedin_:[Linkedin](https://www.linkedin.com/in/markcarrington-mtc2022/)
-_X_: [X](https://x.com/FruChei)
+
+- _Linkedin_:[Linkedin](https://www.linkedin.com/in/markcarrington-mtc2022/)
+- _X_: [X](https://x.com/FruChei)
 
 ### Tools I use
 
@@ -22,7 +23,7 @@ _X_: [X](https://x.com/FruChei)
 
 2. **_Backend_**
 
-- Nodejs, Flask, MongoDB, Express, Shell, Git, Linux, PostgreSQL, Heroku, Firebase and many more
+- Nodejs, Flask, MongoDB, Express, Shell, Git, Linux, PostgreSQL, Heroku, Firebase and more
 
 3. **_Quantum Information_**
 
