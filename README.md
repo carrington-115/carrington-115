@@ -68,4 +68,9 @@ You can reach me on,
 
 6. Code Testing
 
-- Pytest, Jest, Cypress, Mocha, Postman
+<div>
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/pytest.svg" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/jest.jpg" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/cypress.png" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/postman.svg" width="100" height="auto">
+</div>
