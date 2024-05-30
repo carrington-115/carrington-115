@@ -11,7 +11,7 @@ I am **Fru Mark Carrington Chei**. I have experience in Software development (we
 
 You can reach me on,
 
-- _Linkedin_:[Linkedin](https://www.linkedin.com/in/markcarrington-mtc2022/)
+- _Linkedin_: [Linkedin](https://www.linkedin.com/in/markcarrington-mtc2022/)
 - _X_: [X](https://x.com/FruChei)
 
 ### Tools I use
@@ -36,3 +36,7 @@ You can reach me on,
 5. **_Microboards_**
 
 - Arduino (IoT-integrated), ESP32
+
+6. Code Testing
+
+- Pytest, Jest, Express, Mocha
