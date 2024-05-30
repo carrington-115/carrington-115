@@ -21,11 +21,11 @@ You can reach me on,
 
 <div style="display: flex; gap: 20px">
 <img src="https://github.com/carrington-115/carrington-115/blob/main/images/react.jpg" width="100" height="100">
-<img src="https://github.com/carrington-115/carrington-115/blob/main/images/nextjs.png">
-<img src="https://github.com/carrington-115/carrington-115/blob/main/images/styled-components.png">
-<img src="https://github.com/carrington-115/carrington-115/blob/main/images/shadcnui.jpg">
-<img src="https://github.com/carrington-115/carrington-115/blob/main/images/tailwindcss.png">
-<img src="https://github.com/carrington-115/carrington-115/blob/main/images/boostrap.jpg">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/nextjs.png" width="100" height="100">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/styled-components.png" width="100" height="100">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/shadcnui.jpg" width="100" height="100">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/tailwindcss.png" width="100" height="100">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/boostrap.jpg" width="100" height="100">
 </div>
 
 2. **_Backend_**
