@@ -12,7 +12,7 @@ I am **Fru Mark Carrington Chei**. I have experience in Software development (we
 You can reach me on,
 
 - <a href="https://www.linkedin.com/in/markcarrington-mtc2022/"><img src="https://github.com/carrington-115/carrington-115/blob/main/images/linkedin.svg.png" width="300" height="auto" /></a>
-- <a href="https://x.com/FruChei"><img src="https://github.com/carrington-115/carrington-115/blob/main/images/x.jpeg" width="200" height="200" /></a>
+- <a href="https://x.com/FruChei"><img src="https://github.com/carrington-115/carrington-115/blob/main/images/x.jpeg" width="200" height="auto" /></a>
 
 ### Tools I use
 
@@ -20,12 +20,12 @@ You can reach me on,
    **_Frontend_**
 
 <div style="display: flex; gap: 20px">
-<img src="https://github.com/carrington-115/carrington-115/blob/main/images/react.jpg" width="100" height="100">
-<img src="https://github.com/carrington-115/carrington-115/blob/main/images/nextjs.png" width="100" height="100">
-<img src="https://github.com/carrington-115/carrington-115/blob/main/images/styled-components.png" width="100" height="100">
-<img src="https://github.com/carrington-115/carrington-115/blob/main/images/shadcnui.jpg" width="100" height="100">
-<img src="https://github.com/carrington-115/carrington-115/blob/main/images/tailwindcss.png" width="100" height="100">
-<img src="https://github.com/carrington-115/carrington-115/blob/main/images/boostrap.jpg" width="100" height="100">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/react.jpg" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/nextjs.png" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/styled-components.png" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/shadcnui.jpg" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/tailwindcss.png" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/bootstrap.jpg" width="100" height="auto">
 </div>
 
 2. **_Backend_**
