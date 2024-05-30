@@ -43,11 +43,13 @@ You can reach me on,
 <img src="https://github.com/carrington-115/carrington-115/blob/main/images/firebase.png" width="100" height="auto">
 </div>
 
-- Nodejs, Flask, MongoDB, Express, Shell, Git, Linux, PostgreSQL, Heroku, Firebase and more
-
 3. **_Quantum Information_**
 
-- Qiskit, Cirq, Braket, Q#
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/qiskit.png" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/cirq.png" width="100" height="auto">
+<img src="https://github.com/carrington-115/carrington-115/blob/main/images/pennylane.svg" width="100" height="auto">
+
+- Qiskit, Cirq, pennylane
 
 4. **_Languages_**
 
