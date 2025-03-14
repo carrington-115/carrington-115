@@ -1,5 +1,2 @@
 ## Hi there 👋
-I am **Fru Mark Carrington Chei**. I have experience in Software development (web (fullstack), mobile), Robotics, Quantum Information, and User Experience design. I am a CS Undergraduate with driven passion to learn, contribute, and innovate.
-
-- **🔭 I’m currently working on ...** AI, ML, DL, Robotics and Quantum computing projects.
-- 🌱 I’m currently learning: **DevOps, Cybersecurity, Deep Learning, and Entrepreneurial skills**.
+I'm Mark and I'm a developer. I have experience in Software engineering, Robotics, Quantum Information, and User Experience design. I am a CS Undergraduate with a driven passion to learn, contribute, and innovate. I am interested in collaborating and contributing to projects that can potentially change people's lives.
