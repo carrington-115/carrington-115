@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.chess.com/member/YOUR_CHESS_USERNAME">
+  <a href="https://www.chess.com/member/mark-carrington">
     <img src="https://img.shields.io/badge/Catch%20a%20game%20of%20chess%20with%20me-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com" />
   </a>
 </p>
@@ -90,39 +90,10 @@
 
 | Project | What it is |
 | :--- | :--- |
-| **[AgroSensor](https://github.com/carrington-115)** | An AI-driven sensor node for precision agriculture, measuring soil and environmental variables in the field. |
-| **[AgroSmart](https://github.com/carrington-115)** | The software interface for AgroSensor — farmers build their own predictive models in plain language. |
-| **[QLudo](https://github.com/carrington-115)** | A game built on IBM Quantum, turning quantum mechanics into something you can actually play. |
+| **[AgroSensor](https://github.com/carrington-115/agrosensor)** | An AI-driven sensor node for precision agriculture, measuring soil and environmental variables in the field. |
+| **[AgroSmart](https://github.com/carrington-115/agrosmart)** | The software interface for AgroSensor — farmers build their own predictive models in plain language. |
+| **[QLudo](https://github.com/carrington-115/Quantum_Ludo-IBMQHack-)** | A game built on IBM Quantum at IBM Hack 2022 (with Womanium Quantum Global Bootcamp), turning quantum mechanics into something you can actually play. |
 | **[Mirrorverse for Agents](https://mirrro.io)** | A-to-Z prompting for n8n automations — AI agents that run business workflows without code. |
-| **[DTRACKER](https://github.com/carrington-115)** | The mobile platform innovating waste management in Africa, connecting collectors to households directly. |
-| **[Library MS](https://github.com/carrington-115)** | A Node.js library management tool for cataloguing, lending, and returns. |
-| **[Hotel Management System](https://github.com/carrington-115)** | Backend built with Go, Gorilla Mux, and MongoDB. |
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carrington-115&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=004F90&icon_color=004F90&bg_color=0D1117&text_color=C9D1D9&custom_title=Mark's%20GitHub%20Stats" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrington-115&layout=compact&langs_count=8&hide_border=true&title_color=004F90&bg_color=0D1117&text_color=C9D1D9" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=carrington-115&hide_border=true&background=0D1117&stroke=004F90&ring=004F90&fire=FF6F00&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carrington-115&theme=github-compact&bg_color=0D1117&color=C9D1D9&line=004F90&point=FF6F00&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/carrington-115?style=for-the-badge&logo=github&color=004F90&labelColor=0D1117" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/carrington-115?style=for-the-badge&logo=github&color=FF6F00&labelColor=0D1117&label=Total%20Stars" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=carrington-115&style=for-the-badge&color=004F90&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <i>Always curious. Always building.</i>
-</p>
+| **[DTRACKER](https://www.swims.africa/products/dtracker)** | The mobile platform innovating waste management in Africa, connecting collectors to households directly. |
+| **[Library MS](https://github.com/carrington-115/library-ms)** | A Node.js library management tool for cataloguing, lending, and returns. |
+| **[Hotel Management System](https://github.com/carrington-115/hotel-booking-web-server)** | Backend built with Go, Gorilla Mux, and MongoDB. |
