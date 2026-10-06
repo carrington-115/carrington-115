@@ -97,3 +97,5 @@
 | **[DTRACKER](https://www.swims.africa/products/dtracker)** | The mobile platform innovating waste management in Africa, connecting collectors to households directly. |
 | **[Library MS](https://github.com/carrington-115/library-ms)** | A Node.js library management tool for cataloguing, lending, and returns. |
 | **[Hotel Management System](https://github.com/carrington-115/hotel-booking-web-server)** | Backend built with Go, Gorilla Mux, and MongoDB. |
+
+![Profile Views](https://komarev.com/ghpvc/?username=carrington-115&color=blue&style=flat)
