@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/frumark"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://swims.africa/people/fru-mark-carrington-chei"><img src="https://img.shields.io/badge/Website-004F90?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://frucarringto.tech"><img src="https://img.shields.io/badge/Website-004F90?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:fru@student.iul.ac.in"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
